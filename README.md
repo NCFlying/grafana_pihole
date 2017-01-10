@@ -2,7 +2,9 @@
 Shell Script to get PiHole Data to Grafana/InfluxDB
 
 Pi-Hole: https://pi-hole.net/
+
 jq:  https://stedolan.github.io/jq/
+
 A few requirements...
 
 This was all done in Ubuntu 16.04.
